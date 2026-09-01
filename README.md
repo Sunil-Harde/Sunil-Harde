@@ -4,24 +4,30 @@
 🚀 MERN Stack Developer | Full-Stack Developer | Building Scalable Web Applications
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Sunil-Harde">
-    <img
-      src="https://komarev.com/ghpvc/?username=Sunil-Harde&label=Profile%20Views&color=0e75b6&style=flat"
-      alt="Profile Views"
-    />
-  </a>
-
-  <img
-    src="https://img.shields.io/github/followers/Sunil-Harde?label=Followers&style=flat"
-    alt="Followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/Sunil-Harde?label=Stars&style=flat"
-    alt="Stars"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Sunil-Harde">
+        <img
+          src="https://komarev.com/ghpvc/?username=Sunil-Harde&label=Views&color=0e75b6&style=flat-square"
+          alt="Profile Views"
+        />
+      </a>
+    </td>
+    <td>
+      <img
+        src="https://img.shields.io/github/followers/Sunil-Harde?label=Followers&style=flat-square"
+        alt="Followers"
+      />
+    </td>
+    <td>
+      <img
+        src="https://img.shields.io/github/stars/Sunil-Harde?label=Stars&style=flat-square"
+        alt="Stars"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
@@ -218,7 +224,9 @@ A React-based web application focused on creating a modern frontend experience w
 
 </p>
 
-
+<p align="center">
+  JWT Authentication • bcrypt • Protected Routes • Role-Based Access Control • REST APIs
+</p>
 
 ---
 
@@ -305,7 +313,6 @@ A React-based web application focused on creating a modern frontend experience w
     height="48"
     alt="Vercel"
   />
-
 </picture>
 
 &nbsp;&nbsp;
@@ -351,45 +358,41 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-<picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+    />
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
-  />
+    <img
+      height="180"
+      src="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&hide_border=true"
+      alt="GitHub Statistics"
+    />
+  </picture>
 
-  <img
-    height="180"
-    src="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&hide_border=true"
-    alt="GitHub Statistics"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+    />
 
-</picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=default"
+    />
 
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=default"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true"
-    alt="Top Languages"
-  />
-
-</picture>
+    <img
+      height="180"
+      src="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true"
+      alt="Top Languages"
+    />
+  </picture>
 
 </p>
 
@@ -399,24 +402,22 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-<picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=dark&hide_border=true"
+    />
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=dark&hide_border=true"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=default&hide_border=true"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=default&hide_border=true"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=Sunil-Harde&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-
-</picture>
+    <img
+      src="https://streak-stats.demolab.com/?user=Sunil-Harde&hide_border=true"
+      alt="GitHub Contribution Streak"
+    />
+  </picture>
 
 </p>
 
@@ -426,24 +427,22 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-<picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=react-dark&hide_border=true&area=true"
+    />
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=react-dark&hide_border=true&area=true"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
-  />
-
-  <img
-    src="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
-  />
-
-</picture>
+    <img
+      src="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
+      alt="Contribution Activity Graph"
+    />
+  </picture>
 
 </p>
 
@@ -453,24 +452,22 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-<picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=github_dark"
+    />
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=github_dark"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
-    alt="GitHub Profile Summary"
-  />
-
-</picture>
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
+      alt="GitHub Profile Summary"
+    />
+  </picture>
 
 </p>
 
