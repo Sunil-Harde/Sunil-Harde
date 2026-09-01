@@ -199,7 +199,7 @@ A React-based web application focused on creating a modern frontend experience w
 
 ### 🔐 Authentication & APIs
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap:5px">
 
 <img
   src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
@@ -222,7 +222,7 @@ A React-based web application focused on creating a modern frontend experience w
 
 ### 💳 Integrations
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
       <img
