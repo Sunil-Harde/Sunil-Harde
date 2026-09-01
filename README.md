@@ -11,10 +11,12 @@
       alt="Profile Views"
     />
   </a>
+
   <img
     src="https://img.shields.io/github/followers/Sunil-Harde?label=Followers&style=flat"
     alt="Followers"
   />
+
   <img
     src="https://img.shields.io/github/stars/Sunil-Harde?label=Stars&style=flat"
     alt="Stars"
@@ -110,6 +112,7 @@ A React-based web application focused on creating a modern frontend experience w
       alt="Coding Cloud Repository"
     />
   </a>
+
   <a href="https://coding-cloud-frontend.netlify.app/">
     <img
       src="https://img.shields.io/badge/🌐%20Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
@@ -124,42 +127,51 @@ A React-based web application focused on creating a modern frontend experience w
 
 ### 🎨 Frontend
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux&theme=light" alt="Frontend Technologies"/>
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux"/>
 </p>
 
 ### ⚙️ Backend
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=light" alt="Backend Technologies"/>
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL"/>
 </p>
 
 ### 🗄️ Database & Caching
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=light" alt="Database Technologies"/>
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis"/>
 </p>
 
 ### 🔐 Authentication & APIs
 
 <p align="left">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-&nbsp;
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RBAC-6A1B9A?style=for-the-badge" alt="Role Based Access Control"/>
+  <img
+    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+    alt="JWT"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"
+    alt="REST API"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/RBAC-6A1B9A?style=for-the-badge"
+    alt="Role Based Access Control"
+  />
 </p>
 
 ---
@@ -172,12 +184,12 @@ A React-based web application focused on creating a modern frontend experience w
 
 ### 🧪 Development & API Tools
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,postman,git,github,docker&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,postman,git,github,docker&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,docker&theme=light" alt="Development Tools"/>
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
 </p>
 
 ---
@@ -185,21 +197,27 @@ A React-based web application focused on creating a modern frontend experience w
 ### 🚀 Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="48" height="48" alt="Vercel"/>
+  <img
+    src="https://skillicons.dev/icons?i=vercel&theme=light"
+    width="48"
+    height="48"
+    alt="Vercel"
+  />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
+  <img
+    src="https://cdn.simpleicons.org/render/46E3B7"
+    width="48"
+    height="48"
+    alt="Render"
+  />
 </p>
 
 ---
 
 ### ☁️ Cloud
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS"/>
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
 </p>
 
 ---
@@ -207,16 +225,39 @@ A React-based web application focused on creating a modern frontend experience w
 # 📊 GitHub Analytics
 
 <p align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"/>
-  <img height="180" src="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&hide_border=true" alt="GitHub Statistics"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&hide_border=true"
+    alt="GitHub Statistics"
+  />
 </picture>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=default"/>
-  <img height="180" src="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=default"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
+  />
 </picture>
+
 </p>
 
 ---
@@ -224,11 +265,22 @@ A React-based web application focused on creating a modern frontend experience w
 # 🔥 Contribution Streak
 
 <p align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=dark&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=default&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=Sunil-Harde&hide_border=true" alt="GitHub Contribution Streak"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=dark&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=default&hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Sunil-Harde&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </picture>
+
 </p>
 
 ---
@@ -236,11 +288,22 @@ A React-based web application focused on creating a modern frontend experience w
 # 📈 Contribution Activity
 
 <p align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=react-dark&hide_border=true&area=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"/>
-  <img src="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=react-dark&hide_border=true&area=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
+  />
+  <img
+    src="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
+  />
 </picture>
+
 </p>
 
 ---
@@ -248,11 +311,22 @@ A React-based web application focused on creating a modern frontend experience w
 # 📌 GitHub Profile Summary
 
 <p align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=github_dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default" alt="GitHub Profile Summary"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
+    alt="GitHub Profile Summary"
+  />
 </picture>
+
 </p>
 
 ---
