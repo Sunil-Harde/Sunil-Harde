@@ -222,7 +222,37 @@ A React-based web application focused on creating a modern frontend experience w
 
 ### 💳 Integrations
 
-<p align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/razorpay.svg" width="55" height="42" alt="Razorpay"/><img src="https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png" width="55" height="42" alt="Nodemailer"/><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Twilio-logo-red.svg" width="55" height="42" alt="Twilio"/><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/swagger.svg" width="42" height="42" alt="Third-Party APIs"/></p>
+<div style="display:flex; justify-content:center; align-items:center; flex-wrap:nowrap; gap:18px; width:100%;">
+
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/razorpay.svg"
+    width="55"
+    height="42"
+    alt="Razorpay"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png"
+    width="55"
+    height="42"
+    alt="Nodemailer"
+  />
+
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Twilio-logo-red.svg"
+    width="55"
+    height="42"
+    alt="Twilio"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/swagger.svg"
+    width="42"
+    height="42"
+    alt="Third-Party APIs"
+  />
+
+</div>
 
 ---
 
@@ -319,45 +349,45 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-<picture>
+  <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-  />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
+    />
 
-  <img
-    height="180"
-    src="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&hide_border=true"
-    alt="GitHub Statistics"
-  />
+    <img
+      height="180"
+      src="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&hide_border=true"
+      alt="GitHub Statistics"
+    />
 
-</picture>
+  </picture>
 
-<picture>
+  <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-  />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=default"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=default"
+    />
 
-  <img
-    height="180"
-    src="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true"
-    alt="Top Languages"
-  />
+    <img
+      height="180"
+      src="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true"
+      alt="Top Languages"
+    />
 
-</picture>
+  </picture>
 
 </p>
 
@@ -367,24 +397,24 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-<picture>
+  <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=dark&hide_border=true"
-  />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=dark&hide_border=true"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=default&hide_border=true"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=default&hide_border=true"
+    />
 
-  <img
-    src="https://streak-stats.demolab.com/?user=Sunil-Harde&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+    <img
+      src="https://streak-stats.demolab.com/?user=Sunil-Harde&hide_border=true"
+      alt="GitHub Contribution Streak"
+    />
 
-</picture>
+  </picture>
 
 </p>
 
@@ -394,24 +424,24 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-<picture>
+  <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=react-dark&hide_border=true&area=true"
-  />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=react-dark&hide_border=true&area=true"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
+    />
 
-  <img
-    src="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
-  />
+    <img
+      src="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
+      alt="Contribution Activity Graph"
+    />
 
-</picture>
+  </picture>
 
 </p>
 
@@ -421,24 +451,24 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-<picture>
+  <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=github_dark"
-  />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=github_dark"
+    />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
-  />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
+    />
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
-    alt="GitHub Profile Summary"
-  />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
+      alt="GitHub Profile Summary"
+    />
 
-</picture>
+  </picture>
 
 </p>
 
