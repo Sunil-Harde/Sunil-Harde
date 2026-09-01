@@ -4,32 +4,6 @@
 🚀 MERN Stack Developer | Full-Stack Developer | Building Scalable Web Applications
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Sunil-Harde">
-    <img
-      src="https://komarev.com/ghpvc/?username=Sunil-Harde&label=Profile%20Views&color=0e75b6&style=flat"
-      alt="Profile Views"
-    />
-  </a>
-
-  <img
-    src="https://img.shields.io/github/followers/Sunil-Harde?label=Followers&style=flat"
-    alt="Followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/Sunil-Harde?label=Stars&style=flat"
-    alt="Stars"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Real-World+Full-Stack+Applications;Authentication+%7C+REST+APIs+%7C+RBAC;Learning+AWS+%7C+DevOps+%7C+System+Design"
-    alt="Typing Animation"
-  />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
