@@ -6,10 +6,21 @@
 
 <p align="center">
   <a href="https://github.com/Sunil-Harde">
-    <img src="https://komarev.com/ghpvc/?username=Sunil-Harde&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img
+      src="https://komarev.com/ghpvc/?username=Sunil-Harde&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
   </a>
-  <img src="https://img.shields.io/github/followers/Sunil-Harde?label=Followers&style=flat" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Sunil-Harde?label=Stars&style=flat" alt="Stars"/>
+
+  <img
+    src="https://img.shields.io/github/followers/Sunil-Harde?label=Followers&style=flat"
+    alt="Followers"
+  />
+
+  <img
+    src="https://img.shields.io/github/stars/Sunil-Harde?label=Stars&style=flat"
+    alt="Stars"
+  />
 </p>
 
 <p align="center">
@@ -27,53 +38,41 @@ I'm a **MERN Stack Developer with 2+ years of hands-on experience** building ful
 
 I enjoy developing applications from **frontend UI to backend APIs, database design, authentication, third-party integrations and deployment**.
 
-- 💼 **MERN Stack Developer**
-- ⚛️ React.js & modern JavaScript development
-- 🟢 Node.js & Express.js backend development
-- 🍃 MongoDB & Mongoose
-- 🔐 JWT Authentication & Role-Based Access Control
-- 🔗 REST API development & integration
-- 📊 Admin dashboards & business applications
-- 📦 ERP & Inventory Management systems
-- 💳 Payment integration with Razorpay
-- 📧 Email services with Nodemailer
-- 📱 OTP / communication integrations with Twilio
-- 🧪 API testing with Postman & Thunder Client
-- 🐳 Docker & deployment fundamentals
-- ☁️ Currently learning **AWS, DevOps & System Design**
+* 💼 **MERN Stack Developer**
+* ⚛️ React.js & modern JavaScript development
+* 🟢 Node.js & Express.js backend development
+* 🍃 MongoDB & Mongoose
+* 🔐 JWT Authentication & Role-Based Access Control
+* 🔗 REST API development & integration
+* 📊 Admin dashboards & business applications
+* 📦 ERP & Inventory Management systems
+* 💳 Payment integration with Razorpay
+* 📧 Email services with Nodemailer
+* 📱 OTP / communication integrations with Twilio
+* 🧪 API testing with Postman & Thunder Client
+* 🐳 Docker & deployment fundamentals
+* ☁️ Currently learning **AWS, DevOps & System Design**
 
 ---
 
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://portfolio-sunil-harde.netlify.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-</p>
-
----
 
 # 🚀 Featured Projects
 
 ### 🏢 ERP Inventory Management System
 
-A full-stack ERP and inventory-focused application designed around real-world business workflows.
+A full-stack ERP/inventory-focused application designed around real-world business workflows.
 
 **Core Areas**
 
-- 🔐 Authentication & Authorization
-- 👥 Role-Based Access Control
-- 📦 Inventory Management
-- 📊 Dashboard & Business Data
-- 🔎 Search & Filtering
-- 📄 Pagination
-- 🔒 Protected APIs
-- 👨‍💼 User & Role Management
-- 🗄️ Database-driven business workflows
+* 🔐 Authentication & Authorization
+* 👥 Role-Based Access Control
+* 📦 Inventory Management
+* 📊 Dashboard & Business Data
+* 🔎 Search & Filtering
+* 📄 Pagination
+* 🔒 Protected APIs
+* 👨‍💼 User & Role Management
+* 🗄️ Database-driven business workflows
 
 **Tech Stack**
 
@@ -96,12 +95,12 @@ A React-based web application focused on creating a modern frontend experience w
 
 **Highlights**
 
-- ⚛️ React.js
-- ⚡ Vite
-- 🎨 Tailwind CSS
-- 🧩 Reusable Components
-- 📱 Responsive UI
-- 🚀 Modern frontend architecture
+* ⚛️ React.js
+* ⚡ Vite
+* 🎨 Tailwind CSS
+* 🧩 Reusable Components
+* 📱 Responsive UI
+* 🚀 Modern frontend architecture
 
 **Tech Stack**
 
@@ -125,77 +124,228 @@ A React-based web application focused on creating a modern frontend experience w
 
 ---
 
+
 # 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="42" height="42" alt="Next.js"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="42" height="42" alt="CSS3"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" height="42" alt="Tailwind CSS"/>
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="42" height="42" alt="Bootstrap"/>
-  <img src="https://cdn.simpleicons.org/redux/764ABC" width="42" height="42" alt="Redux"/>
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux&theme=dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux&theme=light"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux&theme=light"
+    alt="Frontend Technologies"
+  />
+
+</picture>
+
 </p>
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="42" height="42" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/000000" width="42" height="42" alt="Express.js"/>
-  <img src="https://cdn.simpleicons.org/graphql/E10098" width="42" height="42" alt="GraphQL"/>
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=light"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=light"
+    alt="Backend Technologies"
+  />
+
+</picture>
+
 </p>
 
 ### 🗄️ Database & Caching
 
-<p>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="42" height="42" alt="MongoDB"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" height="42" alt="MySQL"/>
-  <img src="https://cdn.simpleicons.org/redis/DC382D" width="42" height="42" alt="Redis"/>
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=light"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=light"
+    alt="Database Technologies"
+  />
+
+</picture>
+
 </p>
 
 ### 🔐 Authentication & APIs
 
-<p>
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="42" height="42" alt="JWT"/>
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+  alt="JWT"
+/>
+
+<img
+  src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"
+  alt="REST API"
+/>
+
+<img
+  src="https://img.shields.io/badge/RBAC-6A1B9A?style=for-the-badge"
+  alt="Role Based Access Control"
+/>
+
 </p>
 
-<p>
+<p align="center">
   JWT Authentication • bcrypt • Protected Routes • Role-Based Access Control • REST APIs
 </p>
 
+---
+
 ### 💳 Integrations
 
-<p>
-  <img src="https://cdn.simpleicons.org/razorpay/3395FF" width="42" height="42" alt="Razorpay"/>
-  <img src="https://cdn.simpleicons.org/twilio/F22F46" width="42" height="42" alt="Twilio"/>
+<p align="center">
+
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/razorpay.svg"
+    width="55"
+    height="42"
+    alt="Razorpay"
+  />
+  <img
+    src="https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png"
+    width="55"
+    height="42"
+    alt="Nodemailer"
+  />
+
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Twilio-logo-red.svg"
+    width="55"
+    height="42"
+    alt="Twilio"
+  />
+
+ <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/swagger.svg"
+    width="42"
+    height="42"
+    alt="Third-Party APIs"
+  />
+
+
 </p>
 
-<p>
-  <b>Razorpay • Nodemailer • Twilio • Third-Party APIs</b>
-</p>
+---
 
 ### 🧪 Development & API Tools
 
-<p>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" height="42" alt="VS Code"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" height="42" alt="Postman"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/000000" width="42" height="42" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker"/>
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=vscode,postman,git,github,docker&theme=dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=vscode,postman,git,github,docker&theme=light"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=vscode,postman,git,github,docker&theme=light"
+    alt="Development Tools"
+  />
+
+</picture>
+
 </p>
 
-<p>
-  VS Code • Postman • Thunder Client • Git • GitHub • Docker
+---
+
+### 🚀 Deployment
+
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=vercel&theme=dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=vercel&theme=light"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=vercel&theme=light"
+    width="48"
+    height="48"
+    alt="Vercel"
+  />
+</picture>
+
+&nbsp;&nbsp;
+
+  <img
+    src="https://cdn.simpleicons.org/render/46E3B7"
+    width="48"
+    height="48"
+    alt="Render"
+  />
 </p>
+
+
+---
 
 ### ☁️ Cloud
 
-<p>
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="42" height="42" alt="AWS"/>
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=aws&theme=dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=aws&theme=light"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=aws&theme=light"
+    alt="AWS"
+  />
+
+</picture>
+
 </p>
 
 ---
@@ -204,37 +354,45 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&hide_border=true"
-      alt="GitHub Statistics"
-    />
-  </picture>
+<picture>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=default"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true"
-      alt="Top Languages"
-    />
-  </picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats-six-chi-85.vercel.app/api?username=Sunil-Harde&show_icons=true&hide_border=true"
+    alt="GitHub Statistics"
+  />
+
+</picture>
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true&theme=default"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats-six-chi-85.vercel.app/api/top-langs/?username=Sunil-Harde&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
+  />
+
+</picture>
 
 </p>
 
@@ -244,20 +402,24 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=dark&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=default&hide_border=true"
-    />
-    <img
-      src="https://streak-stats.demolab.com/?user=Sunil-Harde&hide_border=true"
-      alt="GitHub Contribution Streak"
-    />
-  </picture>
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=dark&hide_border=true"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=Sunil-Harde&theme=default&hide_border=true"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Sunil-Harde&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+
+</picture>
 
 </p>
 
@@ -267,43 +429,37 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sunil-Harde&theme=github-dark&hide_border=true&area=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sunil-Harde&theme=github-light&hide_border=true&area=true"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil-Harde&hide_border=true&area=true"
-      alt="Contribution Activity Graph"
-    />
-  </picture>
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=react-dark&hide_border=true&area=true"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
+  />
+
+  <img
+    src="https://github-readme-activity-graph-sigma-lime.vercel.app/graph?username=Sunil-Harde&theme=github-compact&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
+  />
+
+</picture>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📌 GitHub Profile Summary
 
 <p align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Sunil-Harde&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Sunil-Harde&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-    />
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Sunil-Harde&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-      alt="GitHub Trophies"
-    />
-  </picture>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
 
 </p>
 
