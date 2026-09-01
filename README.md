@@ -55,7 +55,6 @@ I enjoy developing applications from **frontend UI to backend APIs, database des
 
 ---
 
-
 # 🚀 Featured Projects
 
 ### 🏢 ERP Inventory Management System
@@ -123,7 +122,6 @@ A React-based web application focused on creating a modern frontend experience w
 </p>
 
 ---
-
 
 # 🛠️ Tech Stack
 
@@ -220,9 +218,7 @@ A React-based web application focused on creating a modern frontend experience w
 
 </p>
 
-<p align="center">
-  JWT Authentication • bcrypt • Protected Routes • Role-Based Access Control • REST APIs
-</p>
+
 
 ---
 
@@ -236,6 +232,7 @@ A React-based web application focused on creating a modern frontend experience w
     height="42"
     alt="Razorpay"
   />
+
   <img
     src="https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png"
     width="55"
@@ -250,13 +247,12 @@ A React-based web application focused on creating a modern frontend experience w
     alt="Twilio"
   />
 
- <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/swagger.svg"
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/swagger.svg"
     width="42"
     height="42"
     alt="Third-Party APIs"
   />
-
 
 </p>
 
@@ -309,18 +305,19 @@ A React-based web application focused on creating a modern frontend experience w
     height="48"
     alt="Vercel"
   />
+
 </picture>
 
 &nbsp;&nbsp;
 
-  <img
-    src="https://cdn.simpleicons.org/render/46E3B7"
-    width="48"
-    height="48"
-    alt="Render"
-  />
-</p>
+<img
+  src="https://cdn.simpleicons.org/render/46E3B7"
+  width="48"
+  height="48"
+  alt="Render"
+/>
 
+</p>
 
 ---
 
@@ -456,10 +453,24 @@ A React-based web application focused on creating a modern frontend experience w
 
 <p align="center">
 
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=github_dark"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
+  />
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunil-Harde&theme=default"
     alt="GitHub Profile Summary"
   />
+
+</picture>
 
 </p>
 
