@@ -199,65 +199,32 @@ A React-based web application focused on creating a modern frontend experience w
 
 ### 🔐 Authentication & APIs
 
-<p align="center" style="display: flex; justify-content: center; gap:5px">
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+    alt="JWT"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"
+    alt="REST API"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/RBAC-6A1B9A?style=for-the-badge"
+    alt="Role Based Access Control"
+  />
+</p>
 
-<img
-  src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
-  alt="JWT"
-/>
-
-<img
-  src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"
-  alt="REST API"
-/>
-
-<img
-  src="https://img.shields.io/badge/RBAC-6A1B9A?style=for-the-badge"
-  alt="Role Based Access Control"
-/>
-
+<p align="left">
+  JWT Authentication • bcrypt • Protected Routes • Role-Based Access Control • REST APIs
 </p>
 
 ---
 
 ### 💳 Integrations
 
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img
-        src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/razorpay.svg"
-        width="55"
-        height="42"
-        alt="Razorpay"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png"
-        width="55"
-        height="42"
-        alt="Nodemailer"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Twilio-logo-red.svg"
-        width="55"
-        height="42"
-        alt="Twilio"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/swagger.svg"
-        width="42"
-        height="42"
-        alt="Third-Party APIs"
-      />
-    </td>
-  </tr>
-</table>
+<p align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/razorpay.svg" width="55" height="42" alt="Razorpay"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png" width="55" height="42" alt="Nodemailer"/>&nbsp;&nbsp;<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Twilio-logo-red.svg" width="55" height="42" alt="Twilio"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@16.29.0/icons/swagger.svg" width="42" height="42" alt="Third-Party APIs"/></p>
 
 ---
 
