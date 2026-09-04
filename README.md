@@ -107,8 +107,8 @@ A React-based web application focused on creating a modern frontend experience w
     <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
     <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/>
     <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
-    <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux"/>
     <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux"/>
     <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/>
     <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
 </p>
